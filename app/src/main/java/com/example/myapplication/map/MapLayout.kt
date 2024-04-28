@@ -3,7 +3,6 @@ package com.example.myapplication.map
 class MapLayout {
     lateinit var layout: Array<IntArray>
         private set
-    private lateinit var borderlayout: Array<IntArray>
 
     init {
         initializeLayout()
